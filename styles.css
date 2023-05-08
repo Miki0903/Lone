@@ -1,0 +1,6 @@
+body{background-color: #7F8C8D;}
+h1{color black; font-family: Helvetica; font-size: 35px;}
+p{color Black; font-family: Helvetica; font-size: 16px; border-style: solid; border-color: silver;}
+a{color Black; font-family: Helvetica; font-size: 25px; text-decoration: none;}
+img{border-style: dashed; border-width: 4px; border-color: White;}
+a:hover{color: black;}
